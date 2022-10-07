@@ -1,0 +1,162 @@
+[
+{
+"imgSrc": "product1",
+"productTitle": "Pariz",
+"model": "Francuska",
+"price": "17.500",
+"colection": "leto",
+"newCol" : false,
+"popular" : true,
+"action" : false
+},
+{
+"imgSrc": "product12",
+"productTitle": "Austrija",
+"model": "vise ponuda",
+"price": "14.500",
+"colection": "zima",
+"newCol" : true,
+"popular" : false,
+"action" : true
+},
+{
+"imgSrc": "product2",
+"productTitle": "Rim",
+"model": "Italija",
+"price": "16.000",
+"colection": "leto",
+"newCol" : false,
+"popular" : false,
+"action" : false
+},
+{
+"imgSrc": "product13",
+"productTitle": "Kopaonik",
+"model": "Srbija",
+"price": "12.800",
+"colection": "zima",
+"newCol" : true,
+"popular" : true,
+"action" : false
+},
+{
+"imgSrc": "product3",
+"productTitle": "London",
+"model": "Engleska",
+"price": "26.500",
+"colection": "leto",
+"newCol" : true,
+"popular" : true,
+"action" : false
+},
+{
+"imgSrc": "product14",
+"productTitle": "Val Thornes",
+"model": "Francuska",
+"price": "17.000",
+"colection": "zima",
+"newCol" : false,
+"popular" : false,
+"action" : true
+},
+{
+"imgSrc": "product4",
+"productTitle": "Dubai",
+"model": "UAE",
+"price": "55.500",
+"colection": "leto",
+"newCol" : true,
+"popular" : true,
+"action" : false
+},
+{
+"imgSrc": "product15",
+"productTitle": "Slovenija",
+"model": "vise ponuda",
+"price": "13.500",
+"colection": "zima",
+"newCol" : true,
+"popular" : false,
+"action" : true
+},
+{
+"imgSrc": "product5",
+"productTitle": "Moskva",
+"model": "Rusija",
+"price": "15.880",
+"colection": "zima",
+"newCol" : true,
+"popular" : false,
+"action" : false
+},
+{
+"imgSrc": "product16",
+"productTitle": "Lihtenstajn",
+"model": "vise ponuda",
+"price": "14.800",
+"colection": "zima",
+"newCol" : false,
+"popular" : true,
+"action" : false
+},
+{
+"imgSrc": "product6",
+"productTitle": "Barselona",
+"model": "Spanija",
+"price": "24.280",
+"colection": "leto",
+"newCol" : true,
+"popular" : false,
+"action" : true
+},
+{
+"imgSrc": "product7",
+"productTitle": "Kapadokija",
+"model": "Turska",
+"price": "15.800",
+"colection": "leto",
+"newCol" : true,
+"popular" : false,
+"action" : false
+},
+{
+"imgSrc": "product8",
+"productTitle": "Egipat",
+"model": "vise ponuda",
+"price": "58.000",
+"colection": "leto",
+"newCol" : false,
+"popular" : false,
+"action" : true
+},
+{
+"imgSrc": "product9",
+"productTitle": "Grcka",
+"model": "vise ponuda",
+"price": "10.990",
+"colection": "leto",
+"newCol" : false,
+"popular" : true,
+"action" : true
+},
+{
+"imgSrc": "product10",
+"productTitle": "Crna Gora",
+"model": "vise ponuda",
+"price": "9.880",
+"colection": "leto",
+"newCol" : true,
+"popular" : false,
+"action" : false
+},
+{
+"imgSrc": "product11",
+"productTitle": "Svajcarska",
+"model": "vise ponuda",
+"price": "14.000",
+"colection": "zima",
+"newCol" : false,
+"popular" : false,
+"action" : true
+}
+]
